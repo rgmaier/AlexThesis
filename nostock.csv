@@ -1,0 +1,6 @@
+Deal Number;Name;Symbol;ISIN;Ticker Symbol;Status;Event Date;Event Date 2;Index
+123456;Brookfield Asset Management Inc.;BAM;BAM;-;Withdrawn;2007-01-17;2007-04-06;^GSPC
+123456;VTR;VTR;VTR;US;Withdrawn;2007-01-15;2007-04-11;^GSPC
+123456;Morgan Stanley;MS;MS;US;Withdrawn;2007-02-26;2007-03-22;^GSPC
+123456;LTBR;LTBR;LTBR;US;Withdrawn;2007-04-23;2007-06-18;^GSPC
+123456;HSIC;HSIC;HSIC;US;Withdrawn;2007-06-11;2007-09-12;^GSPC
